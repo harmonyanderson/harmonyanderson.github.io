@@ -1,0 +1,35 @@
+.resume {
+	padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 72px;
+    margin-left: 72px;
+    margin-bottom: 72px;
+    margin-top: 72px;
+    background-color: darkgrey;
+}
+
+.contact {
+	font-family: 'slabo 27px', serif;
+}
+
+.summary-highlights h2 {
+	font-family: 'slabo 27px', serif:;
+}
+
+.experience h4 {
+	font-family: 'slabo 27px', serif;
+}
+
+.experience p {
+	font-weight: bold;	
+}
+
+.education h4 {
+	font-family: 'slabo 27px', serif;
+}
+
+.education p {
+	font-weight: bold;
+}
